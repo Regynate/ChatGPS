@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Route ID="qsi3ey">
+  <Name>Test Route</Name>
+  <StartPosition X="-1859.5" Y="-1242.5" Z="8.6"/>
+  <StartHeading>316</StartHeading>
+  <Locations>
+    <Location>
+	  <Position X="-1816.3" Y="-1175.9" Z="13"/>
+	  <PositionError X="5" Y="5" Z="1"/>
+	  <CameraDirection>144</CameraDirection>
+	  <CameraError>40</CameraError>
+	  <PicturePath>test_pics\location_0.png</PicturePath>
+	  <PictureRadius>40</PictureRadius>
+	  <Messages>
+	    <Message Text="This is a&#10;test message" Time="10000" Distance="3000"/>
+	  </Messages>
+	</Location>
+	<Location>
+	  <Position X="-1669.4" Y="-1126.4" Z="13"/>
+	  <PositionError X="5" Y="5" Z="1"/>
+	  <CameraDirection>267</CameraDirection>
+	  <CameraError>40</CameraError>
+	  <PicturePath>test_pics\location_1.png</PicturePath>
+	  <PictureRadius>40</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-1448.8" Y="-766.4" Z="23"/>
+	  <PositionError X="5" Y="5" Z="1"/>
+	  <CameraDirection>140</CameraDirection>
+	  <CameraError>40</CameraError>
+	  <PicturePath>test_pics\location_2.png</PicturePath>
+	  <PictureRadius>50</PictureRadius>
+	</Location>
+  </Locations>
+</Route>	

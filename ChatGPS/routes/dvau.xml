@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<Route ID="1P31Uv">
+  <Name>DarkViperAU's Route</Name>
+  <StartPosition X="2057" Y="3937" Z="34.147"/>
+  <StartHeading>120</StartHeading>
+  <Locations>
+    <Location>
+	  <Position X="1477" Y="3925" Z="31"/>
+	  <PositionError X="20" Y="10" Z="3"/>
+	  <CameraDirection>26</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_0.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	  <Messages>
+	    <Message Text="" Time="15000" Distance="3000"/>
+	    <Message Text="Hey chat" Time="10000" Distance="3000"/>
+	    <Message Text="Help Matto find&#10;the blue marker" Time="10000" Distance="3000"/>
+	    <Message Text="Good luck!" Time="10000" Distance="3000"/>
+	    <Message Text="You have to stand&#10;exactly here" Time="10000" Distance="200"/>
+	    <Message Text="Camera angle&#10;matters" Time="10000" Distance="200"/>
+	  </Messages>
+	</Location>
+	<Location>
+	  <Position X="2356.02" Y="3061.95" Z="48.573"/>
+	  <PositionError X="1.5" Y="1.5" Z="0.5"/>
+	  <CameraDirection>180</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_1.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="947.956" Y="2408.945" Z="89.401"/>
+	  <PositionError X="2" Y="2" Z="0.5"/>
+	  <CameraDirection>302</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_2.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="1384" Y="1147" Z="115.917"/>
+	  <PositionError X="2" Y="2" Z="0.4"/>
+	  <CameraDirection>260</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_3.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-442" Y="1059" Z="327.682"/>
+	  <PositionError X="3" Y="3" Z="1"/>
+	  <CameraDirection>0</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_4.png</PicturePath>
+	  <PictureRadius>100</PictureRadius>
+	  <Messages>
+	    <Message Text="Daveyyyy!" Time="5000" Distance="100"/>
+	  </Messages>
+	</Location>
+	<Location>
+	  <Position X="18.5" Y="536.7" Z="170.7"/>
+	  <PositionError X="3" Y="3" Z="0.5"/>
+	  <CameraDirection>170</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_5.png</PicturePath>
+	  <PictureRadius>80</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-700.287" Y="90.082" Z="55.855"/>
+	  <PositionError X="3" Y="3" Z="0.5"/>
+	  <CameraDirection>154</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_6.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-134.532" Y="-561.761" Z="49.121"/>
+	  <PositionError X="1" Y="1" Z="0.5"/>
+	  <CameraDirection>73</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_7.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-87.893" Y="-1614.319" Z="29.561"/>
+	  <PositionError X="2" Y="2" Z="1"/>
+	  <CameraDirection>280</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_8.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-957" Y="-2798" Z="14"/>
+	  <PositionError X="3" Y="3" Z="1.0"/>
+	  <CameraDirection>140</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_9.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-1586" Y="5169" Z="20"/>
+	  <PositionError X="2" Y="2" Z="1"/>
+	  <CameraDirection>170</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_10.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	  <Messages>
+	    <Message Text="" Time="5000" Distance="100000"/>
+	    <Message Text="Chat, get a&#10;helicopter" Time="20000" Distance="100000"/>
+	    <Message Text="The pink helicopter&#10;is invincible" Time="20000" Distance="100000"/>
+	    <Message Text="Good luck&#10;flying it!" Time="20000" Distance="100000"/>
+	    <Message Text="tabel" Time="5000" Distance="4000"/>
+	  </Messages>
+	</Location>
+	<Location>
+	  <Position X="-538" Y="5390" Z="74"/>
+	  <PositionError X="5" Y="5" Z="1"/>
+	  <CameraDirection>0</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_11.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="-47.126" Y="6304.098" Z="31.643"/>
+	  <PositionError X="2" Y="2" Z="1"/>
+	  <CameraDirection>220</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_12.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+	<Location>
+	  <Position X="54" Y="7230" Z="3"/>
+	  <PositionError X="20" Y="25" Z="3"/>
+	  <CameraDirection>180</CameraDirection>
+	  <CameraError>360</CameraError>
+	  <PicturePath>dvau_pics\location_13.png</PicturePath>
+	  <PictureRadius>200</PictureRadius>
+	</Location>
+  </Locations>
+</Route>	

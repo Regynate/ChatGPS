@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <BaseOutputPath>bin\</BaseOutputPath>
+    <Platforms>AnyCPU</Platforms>
+    <ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fleck" Version="1.2.0" />
+    <PackageReference Include="LemonUI.SHVDN3" Version="1.9.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="ScriptHookVDotNet3" Version="3.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="COPY &quot;$(TargetPath)&quot; &quot;C:\Games\GTAV\scripts&quot;" />
+    <Exec Command="XCOPY &quot;$(ProjectDir)mapOverlay\&quot; &quot;$(TargetDir)ChatGPS\mapOverlay\&quot; /S /Y" />
+    <Exec Command="XCOPY &quot;$(ProjectDir)maps\&quot; &quot;$(TargetDir)ChatGPS\maps\&quot; /S /Y" />
+    <Exec Command="XCOPY &quot;$(ProjectDir)routes\&quot; &quot;$(TargetDir)ChatGPS\routes\&quot; /S /Y" />
+    <Exec Command="XCOPY &quot;$(TargetDir)ChatGPS\&quot; &quot;C:\Games\GTAV\scripts\ChatGPS\&quot; /S /Y" />
+  </Target>
+
+</Project>
